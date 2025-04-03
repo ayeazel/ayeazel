@@ -2,13 +2,14 @@
 ### *Graduate student in International Peace and Conflict Resolution, American University*
 
 I am a current graduate student at American University studying International Peace and Conflict Resolution. 
-Some of my research interests are risk analysis, preventative action, resource mapping, and democratization. 
+Some of my research interests are risk analysis, early warning/early action (EW/EA), resource mapping, and democratization. 
 
 ### Skills
 - Programming languages 
    - Python
   - R/RStudio
   - QGIS
+  - ArcGIS Online
   - Git
 - Statistical analysis and econometrics
   - linear regression
@@ -17,4 +18,4 @@ Some of my research interests are risk analysis, preventative action, resource m
   - inference 
 - Data 
   - wrangling in `tidyverse`, `pandas`
-  - visualization in `ggplot`
+  - visualization in `ggplot`, `matplotlib`
